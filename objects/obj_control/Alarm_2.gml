@@ -1,12 +1,2 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-
-
-
-
-
-
-
-
-
+layer_sequence_destroy(boss_coming);
+instance_create_layer(703,287,"instances",obj_boss);

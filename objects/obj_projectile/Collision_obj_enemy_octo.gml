@@ -1,10 +1,6 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-
-
-
-
-
-
-
+with(other){
+		audio_play_sound(snd_explosion,1,false);
+	global.total_enemies ++;
+	instance_destroy();
+}
+instance_destroy();

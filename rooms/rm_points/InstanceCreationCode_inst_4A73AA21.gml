@@ -1,2 +1,2 @@
-texto = "JOGAR";
-destiny = rm_level1;
+texto = "VOLTAR";
+destiny = rm_home;

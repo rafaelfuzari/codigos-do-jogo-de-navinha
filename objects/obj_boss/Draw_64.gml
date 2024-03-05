@@ -1,12 +1,1 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-
-
-
-
-
-
-
-
-
+draw_healthbar(100,20,1266,40, life/5, c_black,c_red,c_green,0,1,1);

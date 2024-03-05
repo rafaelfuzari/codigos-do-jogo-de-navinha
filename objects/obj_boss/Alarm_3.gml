@@ -1,12 +1,4 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-
-
-
-
-
-
-
-
-
+flagcont = true;
+if !instance_exists(obj_enemy_octo){
+flag4 = true;
+}

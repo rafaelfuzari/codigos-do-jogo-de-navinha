@@ -1,0 +1,1 @@
+draw_sprite_ext(spr_shield2, 0, x,y,image_xscale * .5, image_yscale *.5,0,c_white,1);

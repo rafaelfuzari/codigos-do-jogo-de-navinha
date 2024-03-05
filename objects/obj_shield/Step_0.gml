@@ -1,12 +1,4 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-
-
-
-
-
-
-
-
-
+if shield_life <= 0{
+	audio_play_sound(snd_shield_down, 1, 0);
+	instance_destroy();
+}

@@ -1,12 +1,15 @@
-/// @description Inserir descrição aqui
-// Você pode escrever seu código neste editor
-
-
-
-
-
-
-
-
-
-
+boss_state = 1;
+fire_rate = 60;
+alarm[0] = fire_rate;
+life = 500;
+spd = 6;
+move_right = false;
+move_left = false;
+flag1 = true;
+cont = 0;
+flag2 = true;
+alarm[1] = 0
+flag3 = true;
+flag4 = true;
+flag5 = true;
+flagcont = true;
