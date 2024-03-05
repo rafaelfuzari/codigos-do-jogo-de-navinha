@@ -6,3 +6,7 @@ Na pasta "scripts" e no "scr_savegame" tem um código no qual eu faço a escrita
 modificar o arquivo, mas eu tenho muito que aprender ainda.
 
 Enfim, muito obrigado pela atenção, qualquer dúvida só entrar em contato. Um abraço!
+Caso queira testar o jogo, é só utilizar o link abaixo:
+https://gx.games/pt-br/games/31p24m/space-shooter-para-portifolio/tracks/3eb046f9-f809-4c0b-9be2-7d85a4d197dc/
+Funciona somente em computadores.
+Os comandos são: W A S D para movimentação, e a barra de espaço para atirar.
